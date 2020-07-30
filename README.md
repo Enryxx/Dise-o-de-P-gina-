@@ -1,2 +1,2 @@
-# Dise-o-de-P-gina-
+# Diseño-De-Página
 Mi proyecto de HTML 
